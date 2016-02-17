@@ -1,0 +1,3 @@
+noirdelautreartiste_homepage:
+    path:     /
+    defaults: { _controller: noirdelautreartisteBundle:Default:index }

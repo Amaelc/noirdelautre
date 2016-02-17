@@ -1,0 +1,4 @@
+services:
+#    noirdelautrecollectif.example:
+#        class: noirdelautre\collectifBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

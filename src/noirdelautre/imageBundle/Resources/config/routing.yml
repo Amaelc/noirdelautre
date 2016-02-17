@@ -1,0 +1,3 @@
+noirdelautreimage_homepage:
+    path:     /
+    defaults: { _controller: noirdelautreimageBundle:Default:index }

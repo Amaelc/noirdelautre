@@ -1,0 +1,4 @@
+services:
+#    noirdelautreimage.example:
+#        class: noirdelautre\imageBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

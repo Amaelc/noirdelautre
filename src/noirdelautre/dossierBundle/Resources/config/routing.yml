@@ -1,0 +1,3 @@
+noirdelautredossier_homepage:
+    path:     /
+    defaults: { _controller: noirdelautredossierBundle:Default:index }

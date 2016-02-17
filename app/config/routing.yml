@@ -1,0 +1,19 @@
+noirdelautreimage:
+    resource: "@noirdelautreimageBundle/Resources/config/routing.yml"
+    prefix:   /
+
+noirdelautrecollectif:
+    resource: "@noirdelautrecollectifBundle/Resources/config/routing.yml"
+    prefix:   /
+
+noirdelautredossier:
+    resource: "@noirdelautredossierBundle/Resources/config/routing.yml"
+    prefix:   /
+
+noirdelautreartiste:
+    resource: "@noirdelautreartisteBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

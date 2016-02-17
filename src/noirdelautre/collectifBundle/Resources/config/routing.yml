@@ -1,0 +1,3 @@
+noirdelautrecollectif_homepage:
+    path:     /
+    defaults: { _controller: noirdelautrecollectifBundle:Default:index }
